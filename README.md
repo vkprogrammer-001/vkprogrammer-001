@@ -7,10 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/vipin-kumar-049a7a1a0/" title="LinkedIn Profile"><img width="22" src="https://drive.google.com/file/d/1moc7Ml9sCFRBRl-eNjq3FP3MoVH3JZU0/view?usp=sharing"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/vipinkumar212003" title="HackerRank Profile"><img width="22" src="https://drive.google.com/file/d/1rYRfzLZQAV0nzMOHMJ2hEFfwYfwtYlx5/view?usp=sharing"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/23180258/vipin-kumar" title="Stack Overflow Profile"><img width="22" src="https://drive.google.com/file/d/143i1qks_lvE79gBdXPC5UpYw_cuF1U8R/view?usp=sharing"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/vipinkumar212003/" title="Instagram Profile"><img width="22" src="https://drive.google.com/file/d/1Xrrp9ZXKPWbLCFO5kvOxA3CGBXVty_AH/view?usp=sharing"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/vipin-kumar-049a7a1a0/" title="LinkedIn Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1moc7Ml9sCFRBRl-eNjq3FP3MoVH3JZU0"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/vipinkumar212003" title="HackerRank Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1rYRfzLZQAV0nzMOHMJ2hEFfwYfwtYlx5"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/23180258/vipin-kumar" title="Stack Overflow Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=143i1qks_lvE79gBdXPC5UpYw_cuF1U8R"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/vipinkumar212003/" title="Instagram Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1Xrrp9ZXKPWbLCFO5kvOxA3CGBXVty_AH"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -34,19 +34,18 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1xO08NRAYY7VItCKjzxkYJsm1UsgUdYdr"></code>
+  <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=1TdejXEFnMMEJ24ppKxr742K8RbsrjKcR"></code>
+<!--   <code><img title="Problem Solving" height="25" src="https://drive.google.com/uc?export=view&id=1xO08NRAYY7VItCKjzxkYJsm1UsgUdYdr"></code> -->
+  <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=1kj1idlnudaf3q9GTHkgd2_uEmXFFleOE"></code>
+  <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1l2mev9zxfDhVwN1yYtC2VCPoAE73n8BZ"></code>
+  <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=10h-y8aCU3NEqQoeDYLyGn2tZYehuevRn"></code>
+  <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=1Q4V_xX3cLihAy1T7PkgEqv1feEzO3pTa"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=14SL7vrgSwfanB-kMIUVLHsVizEm81Q61"></code>
+<!--   <code><img title="Java" height="25" src="https://drive.google.com/uc?export=view&id="></code> -->
+  <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=1p7iaC6Ktz8krjTpj2XmCh4C8MrfEG0-l"></code>
+  <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1ekr4xfhT7JiDawIz7TBWxNBjzk1Zi2jB"></code>
+<!--   <code><img title="npm" height="25" src="https://drive.google.com/uc?export=view&id="></code> -->
 </p>
 <hr>
 
