@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+vipin+kumar....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+vipin+kumar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -42,7 +42,7 @@
   <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=1Q4V_xX3cLihAy1T7PkgEqv1feEzO3pTa"></code>
   <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=14SL7vrgSwfanB-kMIUVLHsVizEm81Q61"></code>
   <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=13wGWS67TvpTCqvKnjBsTCVDdJFygaNkm"></code>
-  <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1O01cfzNUG7NePUydQ0HqiSsBnuKE0Eum"></code>
+  <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=12orKvnMSxLLAHeSMIhrls8CC_qMOArIe"></code>
 </p>
 <hr>
 
