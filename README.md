@@ -7,10 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/vipin-kumar-049a7a1a0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/vipinkumar212003" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/23180258/vipin-kumar" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/vipinkumar212003/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/vipin-kumar-049a7a1a0/" title="LinkedIn Profile"><img width="22" src="https://drive.google.com/file/d/1moc7Ml9sCFRBRl-eNjq3FP3MoVH3JZU0/view?usp=sharing"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/vipinkumar212003" title="HackerRank Profile"><img width="22" src="https://drive.google.com/file/d/1rYRfzLZQAV0nzMOHMJ2hEFfwYfwtYlx5/view?usp=sharing"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/23180258/vipin-kumar" title="Stack Overflow Profile"><img width="22" src="https://drive.google.com/file/d/143i1qks_lvE79gBdXPC5UpYw_cuF1U8R/view?usp=sharing"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/vipinkumar212003/" title="Instagram Profile"><img width="22" src="https://drive.google.com/file/d/1Xrrp9ZXKPWbLCFO5kvOxA3CGBXVty_AH/view?usp=sharing"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
