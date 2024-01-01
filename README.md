@@ -36,16 +36,13 @@
 <p align="center">
   <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1xO08NRAYY7VItCKjzxkYJsm1UsgUdYdr"></code>
   <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=1TdejXEFnMMEJ24ppKxr742K8RbsrjKcR"></code>
-<!--   <code><img title="Problem Solving" height="25" src="https://drive.google.com/uc?export=view&id=1xO08NRAYY7VItCKjzxkYJsm1UsgUdYdr"></code> -->
   <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=1kj1idlnudaf3q9GTHkgd2_uEmXFFleOE"></code>
   <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1l2mev9zxfDhVwN1yYtC2VCPoAE73n8BZ"></code>
   <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=10h-y8aCU3NEqQoeDYLyGn2tZYehuevRn"></code>
   <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=1Q4V_xX3cLihAy1T7PkgEqv1feEzO3pTa"></code>
   <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=14SL7vrgSwfanB-kMIUVLHsVizEm81Q61"></code>
-<!--   <code><img title="Java" height="25" src="https://drive.google.com/uc?export=view&id="></code> -->
   <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=1p7iaC6Ktz8krjTpj2XmCh4C8MrfEG0-l"></code>
   <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1ekr4xfhT7JiDawIz7TBWxNBjzk1Zi2jB"></code>
-<!--   <code><img title="npm" height="25" src="https://drive.google.com/uc?export=view&id="></code> -->
 </p>
 <hr>
 
