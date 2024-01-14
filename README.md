@@ -34,7 +34,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1xO08NRAYY7VItCKjzxkYJsm1UsgUdYdr"></code>
+  <code><img title="Python" height="25" src="file:///Users/vipinkumar/Downloads/python-color.svg"></code>
   <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=1TdejXEFnMMEJ24ppKxr742K8RbsrjKcR"></code>
   <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=1kj1idlnudaf3q9GTHkgd2_uEmXFFleOE"></code>
   <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1l2mev9zxfDhVwN1yYtC2VCPoAE73n8BZ"></code>
