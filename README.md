@@ -43,7 +43,7 @@
   <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=1NAB8Zx9Q1MoioCDbTgs8LS_NfCpplg0W"></code>
   <code><img title="java" height="25" src="https://drive.google.com/uc?export=view&id=15P8nNZh6e6kWsE1lPtukZDvDMZ4ewAoK"></code>
   <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=13wGWS67TvpTCqvKnjBsTCVDdJFygaNkm"></code>
-  <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1g92V8BsssT0GWP1rDmwyMKuO_UV"></code>
+  <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1g92V8BsssT0GWP1rDmwyMKuO_UV-cLp7"></code>
   <code><img title="Ruby" height="25" src="https://drive.google.com/uc?export=view&id=1TKiBN5jmiK8OfoehV7iOdckNO4UnZVeu"></code>
 </p>
 <hr>
