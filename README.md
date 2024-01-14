@@ -7,10 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/vipin-kumar-049a7a1a0/" title="LinkedIn Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1aiZwCjxaBqUh7GfoWQ4DkdODhnzlIUZy"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/vipin-kumar-049a7a1a0/" title="LinkedIn Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=12kGrpv3LnzA1mv4ERG2JzJkp09NVa4Bi"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/vipinkumar212003" title="HackerRank Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1zyLxNEeW_z8FIaaAMcjiVE8Nx0lLlATk"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/23180258/vipin-kumar" title="Stack Overflow Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1vJFta7SlyL8vLeUCnXpLC5aAwati5W1p"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/vipinkumar212003/" title="Instagram Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1_9mrVHpxZwQGwRasrxwtVLTQXzFhv1kx"> Instagram</a></code>
+  <code><a href="https://stackoverflow.com/users/23180258/vipin-kumar" title="Stack Overflow Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1biuC8IpfCMko5itYirLsRzNj_HGAdyQZ"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/vipinkumar212003/" title="Instagram Profile"><img width="22" src="https://drive.google.com/uc?export=view&id=1y7nZK-pLzn8AdVHn7wHobAIYRasYLqPe"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -34,16 +34,16 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="file:///Users/vipinkumar/Downloads/python-color.svg"></code>
-  <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=1TdejXEFnMMEJ24ppKxr742K8RbsrjKcR"></code>
-  <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=1kj1idlnudaf3q9GTHkgd2_uEmXFFleOE"></code>
-  <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1l2mev9zxfDhVwN1yYtC2VCPoAE73n8BZ"></code>
-  <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=10h-y8aCU3NEqQoeDYLyGn2tZYehuevRn"></code>
-  <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=1Q4V_xX3cLihAy1T7PkgEqv1feEzO3pTa"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=14SL7vrgSwfanB-kMIUVLHsVizEm81Q61"></code>
-  <code><img title="java" height="25" src="https://drive.google.com/uc?export=view&id=1561o6ox-wO0yn0kZjNJqNmYM1LX8AX-Y"></code>
+  <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1biuC8IpfCMko5itYirLsRzNj_HGAdyQZ"></code>
+  <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=1nZdbedv_HfzMZAeKa01BtZqhRu_xCsv2"></code>
+  <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=1yMPyxP5jz1GvNtU1Z4OQlzSDQdgbX3nS"></code>
+  <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1Nv2Wcf8NlSW1HnOoxY0SW4gO6vE0fM9l"></code>
+  <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=1biuC8IpfCMko5itYirLsRzNj_HGAdyQZ"></code>
+  <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=11Wyx8Hod0rdOta8HJpFfSp2IX_R1_Poj"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=1NAB8Zx9Q1MoioCDbTgs8LS_NfCpplg0W"></code>
+  <code><img title="java" height="25" src="https://drive.google.com/uc?export=view&id=15P8nNZh6e6kWsE1lPtukZDvDMZ4ewAoK"></code>
   <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=13wGWS67TvpTCqvKnjBsTCVDdJFygaNkm"></code>
-  <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=12orKvnMSxLLAHeSMIhrls8CC_qMOArIe"></code>
+  <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1g92V8BsssT0GWP1rDmwyMKuO_UV"></code>
   <code><img title="Ruby" height="25" src="https://drive.google.com/uc?export=view&id=1TKiBN5jmiK8OfoehV7iOdckNO4UnZVeu"></code>
 </p>
 <hr>
