@@ -34,11 +34,11 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1biuC8IpfCMko5itYirLsRzNj_HGAdyQZ"></code>
+  <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1SZivzjIHdpmmgM_rITRLKXOOe8tb55jF"></code>
   <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=1nZdbedv_HfzMZAeKa01BtZqhRu_xCsv2"></code>
   <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=1yMPyxP5jz1GvNtU1Z4OQlzSDQdgbX3nS"></code>
   <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1Nv2Wcf8NlSW1HnOoxY0SW4gO6vE0fM9l"></code>
-  <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=1biuC8IpfCMko5itYirLsRzNj_HGAdyQZ"></code>
+  <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=1e-xCVbqoP6A5JIz7dZTc1w--dDN0_0RY"></code>
   <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=11Wyx8Hod0rdOta8HJpFfSp2IX_R1_Poj"></code>
   <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=1NAB8Zx9Q1MoioCDbTgs8LS_NfCpplg0W"></code>
   <code><img title="java" height="25" src="https://drive.google.com/uc?export=view&id=15P8nNZh6e6kWsE1lPtukZDvDMZ4ewAoK"></code>
