@@ -47,6 +47,8 @@
   <code><img title="Ruby" height="25" src="https://drive.google.com/uc?export=view&id=1TKiBN5jmiK8OfoehV7iOdckNO4UnZVeu"></code>
 </p>
 <hr>
+<h2 align="center">🏆 Trophies 🏆</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=vkprogrammer-001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
