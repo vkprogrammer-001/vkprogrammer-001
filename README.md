@@ -46,9 +46,13 @@
   <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1g92V8BsssT0GWP1rDmwyMKuO_UV-cLp7"></code>
   <code><img title="Ruby" height="25" src="https://drive.google.com/uc?export=view&id=1TKiBN5jmiK8OfoehV7iOdckNO4UnZVeu"></code>
 </p>
+
 <hr>
 <h2 align="center">🏆 Trophies 🏆</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=vkprogrammer-001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="">
+  <img src="https://github-profile-trophy.vercel.app/?username=vkprogrammer-001&theme=onedark">
+</a>
+<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
