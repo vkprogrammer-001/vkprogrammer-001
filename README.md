@@ -46,6 +46,7 @@
   <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1g92V8BsssT0GWP1rDmwyMKuO_UV-cLp7"></code>
   <code><img title="Ruby" height="25" src="https://drive.google.com/uc?export=view&id=1TKiBN5jmiK8OfoehV7iOdckNO4UnZVeu"></code>
   <code><img title="C++" height="25" src="https://drive.google.com/uc?export=view&id=1a06yLI21-XQDyFIIA7SRZ5sP25hQcDHh"></code>
+  <code><img title="Flutter" height="25" src="https://drive.google.com/uc?export=view&id=1QUZlm33axS8DW98Rfb6YY_I5YLyqapdh"></code>
 </p>
 
 <hr>
