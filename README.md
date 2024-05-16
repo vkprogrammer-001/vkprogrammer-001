@@ -45,6 +45,7 @@
   <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=13wGWS67TvpTCqvKnjBsTCVDdJFygaNkm"></code>
   <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1g92V8BsssT0GWP1rDmwyMKuO_UV-cLp7"></code>
   <code><img title="Ruby" height="25" src="https://drive.google.com/uc?export=view&id=1TKiBN5jmiK8OfoehV7iOdckNO4UnZVeu"></code>
+  <code><img title="C++" height="25" src="https://drive.google.com/uc?export=view&id=1-BCAUaH1KHdTqjjOPsbVwVcewVKXruDx"></code>
 </p>
 
 <hr>
