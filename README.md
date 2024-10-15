@@ -34,13 +34,13 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1SZivzjIHdpmmgM_rITRLKXOOe8tb55jF"></code>
-  <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=1nZdbedv_HfzMZAeKa01BtZqhRu_xCsv2"></code>
-  <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=1yMPyxP5jz1GvNtU1Z4OQlzSDQdgbX3nS"></code>
-  <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1Nv2Wcf8NlSW1HnOoxY0SW4gO6vE0fM9l"></code>
-  <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=1e-xCVbqoP6A5JIz7dZTc1w--dDN0_0RY"></code>
-  <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=11Wyx8Hod0rdOta8HJpFfSp2IX_R1_Poj"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=14SL7vrgSwfanB-kMIUVLHsVizEm81Q61"></code>
+  <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1A9g4JwebAyjU2UrYnQON7pYVGnsu4GZB"></code>
+  <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=15PzyvmfvZgnKninDyUeSKBKLQzI9IAwN"></code>
+  <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=15m_NQA6nZWs916S2J6lnefkrr6q4GhJI"></code>
+  <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1qnM_BpO2GdQU9jDTz3PEI8F5MC4oYPHq"></code>
+  <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=1fq8S6Mnqrs0Ith0z8RV8RRJfE9HzRjRN"></code>
+  <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=14yeRRvdHU-HX-4cTb3VCgsj93b_RgJrs"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=1kv0tb-rnmR3A6Fiu-XY0r3gTrY7RGBlG"></code>
   <code><img title="java" height="25" src="https://drive.google.com/uc?export=view&id=15P8nNZh6e6kWsE1lPtukZDvDMZ4ewAoK"></code>
   <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=13wGWS67TvpTCqvKnjBsTCVDdJFygaNkm"></code>
   <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1g92V8BsssT0GWP1rDmwyMKuO_UV-cLp7"></code>
