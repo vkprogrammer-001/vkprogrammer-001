@@ -17,7 +17,7 @@
   Hello, I’m Vipin Kumar, an undergraduate 1st year student
   <br>
   <br>
-  🔬 I'm currently pursuing a B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning at FunctionUp School of Technology
+  🔬 I'm currently pursuing a B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning at Polaris School of Technology
   <br>
   I’m an aspiring technologist with a passion for expanding my technical skills and knowledge.
   <br>
