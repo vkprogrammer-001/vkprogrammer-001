@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hello, I’m Vipin Kumar, an undergraduate 1st year student
+  Hello, I’m Vipin Kumar, an undergraduate 2nd year student
   <br>
   <br>
   🔬 I'm currently pursuing a B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning at Polaris School of Technology
