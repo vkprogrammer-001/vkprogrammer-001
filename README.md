@@ -80,6 +80,7 @@
 
 <hr>
 
+<!---
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -89,16 +90,5 @@
 <h4 align="center">
   <a href="https://github.com/vkprogrammer-001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-
-<!---
-- 👋 Hi, I’m @vkprogrammer-001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-vkprogrammer-001/vkprogrammer-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+
