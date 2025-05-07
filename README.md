@@ -34,19 +34,26 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="https://drive.google.com/uc?export=view&id=1A9g4JwebAyjU2UrYnQON7pYVGnsu4GZB"></code>
-  <code><img title="Javascript" height="25" src="https://drive.google.com/uc?export=view&id=15PzyvmfvZgnKninDyUeSKBKLQzI9IAwN"></code>
-  <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=15m_NQA6nZWs916S2J6lnefkrr6q4GhJI"></code>
-  <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1qnM_BpO2GdQU9jDTz3PEI8F5MC4oYPHq"></code>
-  <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=1fq8S6Mnqrs0Ith0z8RV8RRJfE9HzRjRN"></code>
-  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=1kv0tb-rnmR3A6Fiu-XY0r3gTrY7RGBlG"></code>
-  <code><img title="java" height="25" src="https://drive.google.com/uc?export=view&id=15P8nNZh6e6kWsE1lPtukZDvDMZ4ewAoK"></code>
-  <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=13wGWS67TvpTCqvKnjBsTCVDdJFygaNkm"></code>
-  <code><img title="MySQL" height="25" src="https://drive.google.com/uc?export=view&id=1g92V8BsssT0GWP1rDmwyMKuO_UV-cLp7"></code>
-  <code><img title="Ruby" height="25" src="https://drive.google.com/uc?export=view&id=1TKiBN5jmiK8OfoehV7iOdckNO4UnZVeu"></code>
-  <code><img title="C++" height="25" src="https://drive.google.com/uc?export=view&id=1a06yLI21-XQDyFIIA7SRZ5sP25hQcDHh"></code>
-  <code><img title="Flutter" height="25" src="https://drive.google.com/uc?export=view&id=1FFsy3lHCt1K0sM7ytn8P7AG4Lg3eopGl"></code>
+  <code><img title="java" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="Ruby" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-original.svg"></code>
+  <code><img title="Go" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg"></code>
+  <code><img title="Rust" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg"></code>
+  <code><img title="Dart" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS3" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"></code>
+  <code><img title="Mongodb" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="PostgresSQL" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg"></code>
+  <code><img title="Nodejs" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg"></code>
+  <code><img title="Flutter" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=1p7iaC6Ktz8krjTpj2XmCh4C8MrfEG0-l"></code>
+  <code><img title="Gitlab" height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg"></code>
 </p>
 
 <hr>
