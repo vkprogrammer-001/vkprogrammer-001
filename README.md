@@ -39,7 +39,7 @@
   <code><img title="HTML5" height="25" src="https://drive.google.com/uc?export=view&id=15m_NQA6nZWs916S2J6lnefkrr6q4GhJI"></code>
   <code><img title="CSS" height="25" src="https://drive.google.com/uc?export=view&id=1qnM_BpO2GdQU9jDTz3PEI8F5MC4oYPHq"></code>
   <code><img title="React" height="25" src="https://drive.google.com/uc?export=view&id=1fq8S6Mnqrs0Ith0z8RV8RRJfE9HzRjRN"></code>
-  <code><img title="Git" height="25" src="https://drive.google.com/uc?export=view&id=14yeRRvdHU-HX-4cTb3VCgsj93b_RgJrs"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://drive.google.com/uc?export=view&id=1kv0tb-rnmR3A6Fiu-XY0r3gTrY7RGBlG"></code>
   <code><img title="java" height="25" src="https://drive.google.com/uc?export=view&id=15P8nNZh6e6kWsE1lPtukZDvDMZ4ewAoK"></code>
   <code><img title="GitHub" height="25" src="https://drive.google.com/uc?export=view&id=13wGWS67TvpTCqvKnjBsTCVDdJFygaNkm"></code>
