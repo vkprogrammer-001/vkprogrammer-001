@@ -64,7 +64,7 @@
 <hr>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="">
-  <img src="https://github-profile-trophy.vercel.app/?username=vkprogrammer-001&theme=onedark">
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=vkprogrammer-001&theme=onedark">
 </a>
 <hr>
 
