@@ -14,20 +14,19 @@
 </h5>
 <br>
 <p align="center">
-  Hello! 👋 I’m Vipin Kumar, a 2nd-year undergraduate on an exciting journey at Polaris School of Technology.
-  <br>
-  <br>
-  🔬 I’m pursuing a B.Tech in Computer Science Engineering, specializing in Artificial Intelligence and Machine Learning. 
-  I’m passionate about technology, always eager to expand my skills and dive deeper into the world of innovation.
-  <br>
-  <br>
-  📚 Beyond coding and algorithms, I love exploring the business side of things through books—learning about commerce, entrepreneurship, and what makes successful ventures tick.
-  <br>
-  <br>
-  🎧 When I need to recharge, you’ll find me listening to music. It’s my go-to escape, sparking creativity and helping me unwind.
-  <br>
-  <br>
-  I’m always open to connecting with like-minded peers, sharing ideas, and collaborating on exciting projects. Let’s build something amazing together!
+  Hello! 👋 I’m Vipin Kumar, a Software Engineer at Findoc and an Undergraduate at Polaris School of Technology.
+ <br>
+ <br>
+ 🚀 Currently specializing in <b>AI & Machine Learning</b>, I bridge the gap between robust backend systems and intelligent automation. My journey includes contributing to open-source via <b>GSoC 2024 (Monumento)</b> and building scalable financial microservices.
+ <br>
+ <br>
+ 📖 <b>Beyond the Code:</b> I’m a firm believer in continuous learning—whether it’s diving into finance and entrepreneurship through books or exploring the intersection of tech and commerce.
+ <br>
+ <br>
+ 🎵 When I’m not shipping code, I’m likely recharging with some music to keep the creative gears turning. 
+ <br>
+ <br>
+ I love collaborating on innovative projects and exploring the "what's next" in tech. Let’s connect!
   <br>
   <br>
   💬 Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
