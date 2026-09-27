@@ -14,24 +14,28 @@
 </h5>
 <br>
 <p align="center">
-  Hello! 👋 I’m Vipin Kumar, a Software Engineer at Findoc and an Undergraduate at Polaris School of Technology.
- <br>
- <br>
- 🚀 Currently specializing in <b>AI & Machine Learning</b>, I bridge the gap between robust backend systems and intelligent automation. My journey includes contributing to open-source via <b>GSoC 2024 (Monumento)</b> and building scalable financial microservices.
- <br>
- <br>
- 📖 <b>Beyond the Code:</b> I’m a firm believer in continuous learning—whether it’s diving into finance and entrepreneurship through books or exploring the intersection of tech and commerce.
- <br>
- <br>
- 🎵 When I’m not shipping code, I’m likely recharging with some music to keep the creative gears turning. 
- <br>
- <br>
- I love collaborating on innovative projects and exploring the "what's next" in tech. Let’s connect!
+  Hi, I'm Vipin Kumar, a Backend Engineer at <b>Findoc</b> and a B.Tech Computer Science (AI/ML) student at Polaris School of Technology.
   <br>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
+  I build Go microservices for fintech. At Findoc I work on the <b>FinZoom</b> backend (Go, Fiber, PostgreSQL, Redis), a mutual fund app with 1K+ installs, including the <b>BSE StAR MF</b> integration, webhook retry workers and reconciliation jobs that keep user orders in sync with the exchange. I also built an in-house IPO microservice that replaced a paid vendor API.
   <br>
-  📫 How to reach me: <a href="mailto: vk.bsn002@gmail.com">vk.bsn002@gmail.com</a>
+  <br>
+  <b>Open Source:</b> Google Summer of Code 2024 contributor with <a href="https://github.com/AOSSIE-Org">AOSSIE</a> on Monumento, an AR landmark social app. <a href="https://gist.github.com/vkprogrammer-001/d3058d0c50c29507a5fd692cd5f140c9">Final report</a>
+  <br>
+  <br>
+  <b>Tech Stack:</b> Go, SQL, JavaScript, TypeScript, Fiber, Node.js, PostgreSQL, Redis, MySQL, MongoDB, Docker, Nginx, Git
+  <br>
+  <br>
+  <b>Featured Project:</b> <a href="https://github.com/vkprogrammer-001/Short-Track">Short-Track</a>, a URL shortener in Go with PostgreSQL, Redis and Docker. <a href="https://short-track-v1-kfq7sgtsb-vipin-kumars-projects-6f54c9e9.vercel.app/">Live demo</a>
+  <br>
+  <br>
+  <b>Beyond Code:</b> I read about finance and entrepreneurship, and I'm always interested in where technology and business meet.
+  <br>
+  <br>
+  Open to backend engineering opportunities and collaboration on Go projects.
+  <br>
+  <br>
+  <b>Contact:</b> <a href="mailto:vk.bsn002@gmail.com">vk.bsn002@gmail.com</a> | <a href="https://www.linkedin.com/in/vipin-kumar-049a7a1a0/">LinkedIn</a>
 </p>
 
 <hr>
