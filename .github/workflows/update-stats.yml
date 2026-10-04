@@ -37,15 +37,17 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Generate Activity Graph
-        uses: Platane/snk@master
+        uses: vkprogrammer-001/github-readme-activity-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: profile/github-snake.svg
+          username: ${{ github.repository_owner }}
+          output: profile/activity-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README stats" || exit 0
+          git commit -m "Update README stats and activity graph" || exit 0
           git push
