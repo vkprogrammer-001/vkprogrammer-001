@@ -37,13 +37,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Generate Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph@master
+        uses: Platane/snk@master
         with:
-          username: ${{ github.repository_owner }}
-          output_path: profile/activity-graph.svg
-          theme: react-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: profile/github-snake.svg
 
       - name: Commit and Push
         run: |
