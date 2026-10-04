@@ -34,7 +34,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           output_path: profile/trophy.svg
-          token: ${{ secrets.TROPHY_STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         run: |
