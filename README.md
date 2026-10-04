@@ -90,7 +90,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vkprogrammer-001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=vkprogrammer-001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
